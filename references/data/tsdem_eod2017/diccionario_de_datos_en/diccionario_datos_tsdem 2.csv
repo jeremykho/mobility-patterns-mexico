@@ -1,0 +1,23 @@
+field_name,length,type,mnemonic,catalogue,key_ranges
+Person identifier,6,N,id_soc,,1-200117
+Household identifier,5,N,id_hog,,1-56685
+Row number,2,C,n_ren,,01-22
+Question 3.3 What is (NAME) of the head of household?,1,C,parentesco,parentesco,1-6
+Question 3.4 (NAME) is male / (NAME) is female,1,C,sexo,sexo,"1,2"
+Question 3.5 How old are you (NAME)?,2,C,edad,edad,00-99
+Question 3.6 Up to what year or grade did you approve (NAME) at school?,2,C,niv,niv,"00-09,99,b"
+Question 3.6 Up to what year or grade did you approve (NAME) at school?,1,C,gra,,"0-9,b"
+Question 3.7 During the past week (NAME) ...,1,C,p3_7,p3_7,"1-8,b"
+Question 3.8 Although you already told me that (NAME) (CONDITION OF 3.7) last week ...,1,C,p3_8,p3_8,"1-4,b"
+Question 4.2 The (MENTION TRAVEL DAY) (NAME) Did you use any means of transportation or did you walk to go somewhere?,1,C,p4_2,p4_2,"1,2,b"
+Question 4.3 On Saturday (NAME) did you use any means of transportation or did you walk to go somewhere?,1,C,p4_3,p4_3,"1,2,b"
+Question 5.4 How many trips did you make during the week?,2,C,p5_4,p5_4,"01-14,b"
+Question 6.4 How many trips did you make on Saturday?,2,C,p6_4,p6_4,"01-10,b"
+Sociodemographic stratum,1,C,estrato,estrato,1-4
+Factor,4,N,factor,,5-1921
+Primary sampling unit,5,C,upm_dis,,00010-12352
+Sample design layer,4,C,est_dis,,0010-5470
+Location size,1,C,tloc,tloc,1-4
+Housing district,3,C,distrito,distrito,001-300
+Entity of the dwelling,2,C,ent,ent,01-32
+Municipality or delegation of housing,3,C,mun,mun,001-570
