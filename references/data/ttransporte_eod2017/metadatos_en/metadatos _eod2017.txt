@@ -1,0 +1,29 @@
+Identifier: MEX-INEGI-EOD-2017-V01
+
+Title: Home Destination Survey in the Metropolitan Area of ​​the Valley of Mexico 2017
+
+Description: INEGI. Home Destination Survey of the Metropolitan Area of ​​the Valley of Mexico 2017.
+
+The Home Destination Survey of the Metropolitan Area of ​​the Valley of Mexico 2017 aims to obtain information that allows to know the current mobility of the inhabitants of the ZMVM, with respect to its characteristics, motive, duration, means of transport and time of displacement, among other aspects of the trips they make.
+
+Modified: 2018-02-19
+
+Publisher: National Institute of Statistics and Geography, INEGI
+
+Mbox: attention.usuarios@inegi.org.mx
+
+License: http://www.beta.inegi.org.mx/inegi/terminos.html
+
+DataDictionary:
+
+Keyword: households, people, travel, mobility, means of transport, ZMVM
+
+ContactPoint: Lic. José de Jesús Esquivel de la Rosa, 01800 111 4634
+
+Temporary: 2017-01-01-2017-12-31
+
+Spatial: Metropolitan Area of ​​the Valley of Mexico
+
+AccrualPeriodicity: Not determined
+
+Distribution: http://www.beta.inegi.org.mx/proyectos/enchogares/especiales/eod/2017/default.html?init=3
