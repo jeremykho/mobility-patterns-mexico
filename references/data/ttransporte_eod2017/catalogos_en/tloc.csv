@@ -1,0 +1,5 @@
+cve, descrip
+"1", "Locations greater than 100,000 inhabitants"
+"2", "Locations of 15,000 to 99,999 inhabitants"
+"3", "Localities from 2,500 to 14,999 inhabitants"
+"4", "Cities under 2,500 inhabitants"

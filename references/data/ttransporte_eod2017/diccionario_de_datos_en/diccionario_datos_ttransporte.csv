@@ -1,0 +1,19 @@
+field_name,length,type,mnemonic,catalogue,key_ranges
+Transport identifier,6,N,id_tra,,1-890748
+Travel identifier,6,N,id_via,,1-531594
+5.3 Travel day,1,C,p5_3,p5_3,"1,2"
+5.8 Travel number,2,C,n_via,,01-14
+5.14 Means of transport used,2,C,p5_14,p5_14,01-20
+5.16 In what order did you use them?,2,C,p5_16,,01-10
+5.16.1. including the waiting and transfer time,2,C,p5_16_1_1,,"00-23,99"
+5.16.1. including the waiting and transfer time,2,C,p5_16_1_2,,"00-29,99"
+5.16.2. How much did he spend on (answer of 5.14)?,3,C,p5_16_2,,000-999
+Station code that went up,3,C,p5_17_1c,p5_17_1c,"001-304,999"
+Station code that left,3,C,p5_17_2c,p5_17_2c,"001-304,999"
+sociodemographic stratum,1,C,estrato,estrato,1-4
+factor,4,N,factor,,5-1921
+primary sampling unit,5,C,upm_dis,,00010-12352
+stratum of sample design,4,C,est_dis,,0010-5470
+size of locality,1,C,tloc,tloc,1-4
+sex of the person,1,C,sexo,sexo,"1,2"
+age of the person,2,C,edad,edad,06-99

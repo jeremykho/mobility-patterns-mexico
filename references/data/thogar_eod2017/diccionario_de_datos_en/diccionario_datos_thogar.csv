@@ -1,0 +1,21 @@
+field_name,length,type,mnemonic,catalogue,key_ranges
+Household identifier,5,N,id_hog,,1-56685
+Property identifier,5,N,id_viv,,1-54593
+home,2,C,hogar,,01-05
+line of the informant,2,C,n_inf,,01-14
+Question 2.1 Option 1 How many cars or trucks do you have to transport yourself on a daily basis?,1,C,p2_1_1,p2_1_1,0-8
+Question 2.1 Option 2 How many motorcycles or scooters do you have to transport yourself on a daily basis?,1,C,p2_1_2,p2_1_2,0-9
+Question 2.1 Option 3 How many bicycles do you have to transport yourself on a daily basis?,1,C,p2_1_3,p2_1_3,0-9
+Question 2.2.1.1 Does the car or truck have ...,1,C,p2_2,p2_2,"1-4,9"
+Question 2.2.1.2 How many cars or trucks do you have with a double zero hologram?,1,C,p2_2b_1,p2_2b_1,0-9
+Question 2.2.1.2 Option hologram 0?,1,C,p2_2b_2,p2_2b_2,0-9
+Question 2.2.1.2 Option hologram 1?,1,C,p2_2b_3,p2_2b_3,0-9
+Question 2.2.1.2 Option hologram 2?,1,C,p2_2b_4,p2_2b_4,0-9
+sociodemographic stratum,1,C,estrato,estrato,1-4
+expansion factor,4,N,factor,,5-1921
+primary sampling unit,5,C,upm_dis,,00010-12352
+stratum of sample design,4,C,est_dis,,0010-5470
+size of locality,1,C,tloc,tloc,1-4
+housing district,3,C,distrito,distrito,001-300
+housing entity,2,C,ent,ent,01-32
+municipality or housing delegation,3,C,mun,mun,001-570

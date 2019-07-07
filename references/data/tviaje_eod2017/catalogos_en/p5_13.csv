@@ -1,0 +1,12 @@
+cve, descrip
+"01", "Go home"
+"02", "Going to work"
+"03", "Go to study"
+"04", "Go shopping (goods and services)"
+"05", "Living together (friends or family), sports or recreation"
+"06", "Carry or pick up someone"
+"07", "Make a procedure"
+"08", "Go to the doctor or receive health care"
+"09", "Go to religious act"
+"10", "Other"
+"99", "Do not know"

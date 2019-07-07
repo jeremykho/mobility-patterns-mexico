@@ -1,0 +1,12 @@
+cve, descrip
+"00", "None"
+"01", "Preschool or kindergarten"
+"02", "Primary"
+"03", "Secondary"
+"04", "Technical career with secondary completed"
+"05", "Basic Normal"
+"06", "High school or baccalaureate"
+"07", "Technical career with completed high school"
+"08", "Bachelor or professional"
+"09", "Master's or doctorate"
+"99", "Do not know"
