@@ -4,6 +4,8 @@
 
 <b> Authors: </b> Vincent Fighiera, Jeremy Kho, Pierre Melikov and Marta C. González
 
+<i> Note: File formats and structure based on submission requirements. </i>
+
 ### Executive Summary
 
 To gain a deeper understanding of the lifestyles and mobility of the inhabitants of Mexico City, urban science methods, such as percolation theory, fractals, and the extended radiation model, were applied using both Python and MATLAB.
